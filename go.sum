@@ -1,8 +1,14 @@
+github.com/PhuSanh/go-data-structure v0.0.0-20190429040735-23fa3b3f14fa h1:kYIB4AwXSiNL87MpOTrBBqpW7btM141vw+uVEFmztLY=
+github.com/PhuSanh/go-data-structure v0.0.0-20190429040735-23fa3b3f14fa/go.mod h1:qU79s7cGpUPPL12dSvh9lI4Q3BaxiKhmyyjGgRKBYs4=
+github.com/PhuSanh/go-data-structure v0.0.0-20190429062257-71bc4d230fd5 h1:9H2eJtgoD9Y79zDq9E+Z8S/WEM+tb6zg4rW/CqPStFg=
+github.com/PhuSanh/go-data-structure v0.0.0-20190429062257-71bc4d230fd5/go.mod h1:qU79s7cGpUPPL12dSvh9lI4Q3BaxiKhmyyjGgRKBYs4=
 github.com/PuerkitoBio/goquery v1.5.0 h1:uGvmFXOA73IKluu/F84Xd1tt/z07GYm8X49XKHP7EJk=
 github.com/PuerkitoBio/goquery v1.5.0/go.mod h1:qD2PgZ9lccMbQlc7eEOjaeRlFQON7xY8kdmcsrnKqMg=
 github.com/andybalholm/cascadia v1.0.0 h1:hOCXnnZ5A+3eVDX8pvgl4kofXv2ELss0bKcqRySc45o=
 github.com/andybalholm/cascadia v1.0.0/go.mod h1:GsXiBklL0woXo1j/WYWtSYYC4ouU9PqHO0sqidkEA4Y=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
+github.com/cheekybits/genny v1.0.0 h1:uGGa4nei+j20rOSeDeP5Of12XVm7TGUd4dJA9RDitfE=
+github.com/cheekybits/genny v1.0.0/go.mod h1:+tQajlRqAUrPI7DOSpB0XAqZYtQakVtB7wXkRAgjxjQ=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/coreos/go-etcd v2.0.0+incompatible/go.mod h1:Jez6KQU2B/sWsbdaef3ED8NzMklzPG4d5KIOhIy30Tk=
 github.com/coreos/go-semver v0.2.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3EedlOD2RNk=
