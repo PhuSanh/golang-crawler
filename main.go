@@ -1,8 +1,6 @@
 package main
 
 import (
-	"fmt"
-	"github.com/PhuSanh/go-data-structure/stack"
 	"github.com/urfave/cli"
 	_ "go-crawler/config"
 	"go-crawler/crawler"
@@ -11,13 +9,6 @@ import (
 )
 
 func main() {
-
-	stack := stack.ItemStack{}
-	stack.New()
-	stack.Push("123123")
-	stack.Push("hello")
-	v := stack.Pop()
-	fmt.Println("v: ", *v)
 
 	database.MongoDB = database.NewConn()
 
